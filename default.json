@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Settings that PatchWave needs to analyze Renovate pull requests",
+  "commitBodyTable": true
+}
